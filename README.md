@@ -11,13 +11,6 @@ This repo documents my growth in problem-solving, data structures, and algorithm
 
 ---
 
-## 🗂️ Structure
-
-competitive-programming/ │ ├── codeforces/ │ └── round_1900/ │ ├── A_Even_Array.py │ └── B_Swap_Sum.py │ ├── leetcode/ │ └── easy/ │ └── 001_Two_Sum.py │ ├── atcoder/ │ └── abc320/ │ └── A_Tasty_Table.cpp
-
-
----
-
 ## 🧰 Tools
 
 - Languages: Python, C++, Java
@@ -38,4 +31,4 @@ competitive-programming/ │ ├── codeforces/ │ └── round_1900/ │
 
 ---
 
-### 🔗 [Connect with me](#) if you're also grinding CP!
+### 🔗 [Connect with me](shimelsabraham123@gmail.com) if you're also grinding CP!
